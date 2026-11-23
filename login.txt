@@ -1,0 +1,15 @@
+gikiadmin@123$ a001@giki.edu.pk admin
+mypass45&456@ a002@giki.edu.pk admin
+heloo$&@ a003@giki.edu.pk admin
+admin@098* a004@giki.edu.pk admin
+fry&567@ a005@giki.edu.pk admin
+zeroab$@123 i101@giki.edu.pk instructor
+helo@45& i102@giki.edu.pk instructor
+adb5@#23 i103@giki.edu.pk instructor
+ot@123& i104@giki.edu.pk instructor
+Ahmad@345& i105@giki.edu.pk instructor
+Myname&ad23@ s201@giki.edu.pk student
+hashmani12@ s202@giki.edu.pk student
+has@76$ s203@giki.edu.pk student
+Mo@234$ s204@giki.edu.pk student
+las@g67@ s205@giki.edu.pk student
